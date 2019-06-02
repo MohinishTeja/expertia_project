@@ -1,0 +1,276 @@
+* {
+	margin: 0;
+	padding: 0;
+	font-family: Century Gothic;
+}
+
+header {
+	background-image: url(ban1.png);
+	height: 100vh;
+	background-position: center;
+	background-size: cover;
+}
+
+ul {
+	list-style: none;
+	float: right;
+	margin-top: 3%;
+	margin-right: 6%;
+}
+
+ul li {
+	display: inline-block;
+
+}
+
+ul li a {
+	text-decoration: none;
+	color: #fff;
+	padding: 5px 30px;
+
+}
+
+.l1 {
+	top: 70%;
+	left: 35%;
+	position: absolute;
+	color: #fff;
+	font-size: 4em;
+}
+
+.l2 {
+	top: 80%;
+	left: 30%;
+	color: #fff;
+	position: absolute;
+	font-size: 3em;
+}
+
+.main2 {
+	background-color: #ff8000;
+}
+
+.l3 {
+
+	padding-top: 5%;
+	margin-left: auto;
+	margin-right: auto;
+	padding-bottom: 5%;
+	width: 30%;
+	font-size: 1.5em;
+	color: #fff;
+
+}
+.l4 {
+	margin-left: 10%;
+	margin-right: 10%;
+	padding-bottom: 5%;
+	font-size: 1.5em;
+	color: #fff;
+}
+
+.l5 {
+	color: #ff8000;
+	padding-top: 5%;
+	padding-bottom: 2%;
+	margin-right: auto;
+	margin-left: auto;
+	width: 16%;
+	font-size: 2em;
+}
+
+.l6 {
+	padding-bottom: 3%;
+	margin-right: auto;
+	margin-left: auto;
+	width: 25%;
+	font-size: 1.5em;
+}
+
+.l7 {
+	margin-left: auto;
+	margin-right: auto;
+	width: 15%;
+	padding-bottom: 1%;
+	font-size: 1em;
+}
+
+.l8 {
+	margin-left: auto;
+	margin-right: auto;
+	width: 12%;
+	padding-bottom: 1%;
+	font-size: 1em;
+}
+.l9 {
+ 	margin-left: auto;
+	margin-right: auto;
+	width: 13%;
+	padding-bottom: 1%;
+	font-size: 1em;
+}
+
+.l10 {
+	margin-left: auto;
+	margin-right: auto;
+	width: 23%;
+	padding-bottom: 1%;
+	font-size: 1em;
+	padding-bottom: 7%;
+}
+
+
+.l11 {
+	margin-right: 30%;
+	margin-left: 45%;
+	font-size: 2em;
+	padding-top: 5%;
+	padding-bottom: 5%;
+	color: #fff;
+}
+
+.main5 {
+	background-image: url(ban4.png);
+	background-position: center;
+	background-size: cover;
+}
+.l12 {
+	display: flex;
+	margin: 10%;
+}
+
+.im {
+	display: inline-block;
+	margin: 6%;
+}
+.l13 {
+	display: flex;
+	margin: 10%;
+}
+
+.mainb1 {
+	background-color: #585858;
+}
+
+.b1 {
+	padding-top: 5%;
+	margin-left: auto;
+	margin-right: auto;
+	padding-bottom: 5%;
+	width: 45%;
+	font-size: 1.5em;
+	color: #fff;
+}
+
+.b2 {
+	padding-top: 1%;
+	padding-bottom: 1%;
+	margin-left: auto;
+	margin-right: auto;
+	width: 15%;
+	font-size: 1.5em;
+	color: #fff;
+	border: #ff8000 solid 2px;
+	border-bottom: 2%;
+	text-align: center;
+}
+
+.b2 a {
+	text-decoration: none;
+	color: #fff;
+}
+.b3 {
+	margin-left: 90%;
+}
+.b3 a{
+	color: #fff;
+	text-decoration: none;
+	float: right;
+	font-size: 1em;
+}
+.b4 {
+	margin-left: 70%;
+}
+.b4 a{
+	color: #fff;
+	text-decoration: none;
+	float: right;
+	font-size: 1em;
+}
+.b5 {
+	margin-left: 90%;
+}
+.b5 a{
+	color: #fff;
+	text-decoration: none;
+	float: right;
+	font-size: 1em;
+}
+.b6 {
+	margin-left: 90%;
+}
+.b6 a{
+	color: #fff;
+	text-decoration: none;
+	float: right;
+	font-size: 1em;
+}
+.box {
+	position: relative;
+	display: flex;
+	padding-bottom: 5%;
+
+}
+
+
+
+input[type="submit"] {
+	background: #fff;
+	float: right;
+
+}
+
+input[type="text"] {
+	background: #585858;
+	border-color: #fff;	
+}
+
+.triu {
+	width: 0px;
+	height: 0px;
+	border-right: 25px solid transparent;
+	border-left: 25px solid transparent;
+	border-bottom: 25px solid #ff8000;
+	margin-left: 48%;
+	margin-top: 1%;
+}
+
+.trid {
+	width: 0px;
+	height: 0px;
+	border-right: 25px solid transparent;
+	border-left: 25px solid transparent;
+	border-top: 25px solid #ff8000;
+	margin-left: 48%;
+	margin-bottom: 1%;
+}
+
+ol {
+	list-style: none;
+	display: flex;
+	padding-bottom: 5%;
+}
+
+ol a{
+	text-decoration: none;
+	color: #fff;
+}
+
+.icon {
+	margin-left: 15%;
+}
+
+.name {
+	margin-left: 25%;
+}
+
